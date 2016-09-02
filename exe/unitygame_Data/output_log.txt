@@ -1,0 +1,54 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     1792 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\User\Desktop\game\exe\unitygame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\User\Desktop\game\exe\unitygame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\game\exe\unitygame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\User\Desktop\game\exe\unitygame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\game\exe\unitygame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\User\Desktop\game\exe\unitygame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\game\exe\unitygame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\User\Desktop\game\exe\unitygame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.104 seconds
+Platform assembly: C:\Users\User\Desktop\game\exe\unitygame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\User\Desktop\game\exe\unitygame_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Button') is missing!
+ 
+(Filename:  Line: 1655)
+
+UnloadTime: 0.613684 ms
+The referenced script on this Behaviour (Game Object 'player') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'player') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'Text') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'player') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.194296 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 477.
+Total: 0.300213 ms (FindLiveObjects: 0.038061 ms CreateObjectMapping: 0.022238 ms MarkObjects: 0.229223 ms  DeleteObjects: 0.010263 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2044 -> priority: 1 
+  Thread -> id: 1614 -> priority: 1 
